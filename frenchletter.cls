@@ -3,8 +3,6 @@
 
 \thispagestyle{empty}
 
-\newcommand{\setLanguage}[1]{\usepackage[#1]{babel}}
-
 \def\setDate{\today}
 \def\setPlace{Paris}
 \def\setSignature{Your Name}
