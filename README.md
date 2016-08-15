@@ -32,5 +32,6 @@ See the examples to see the class in action.
 
 ## License
 
-Licensed WTFPL.
+Licensed WTFPL <http://www.wtfpl.net/>.
+
 See COPYING.
