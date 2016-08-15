@@ -46,10 +46,11 @@
     \fi
 
     \topdate
-    \vspace{1em}
+    \vspace{2em}
     }
 
 \AtEndDocument{
+    \vspace{3em}
     \begin{flushright}
         \setSignature
     \end{flushright}
