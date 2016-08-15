@@ -22,7 +22,7 @@ Then you can begin the document
 ....
 
 \closing{Best regards,}
-
+\end{document}
 ```
 
 Everything else is taken care of by the class.
