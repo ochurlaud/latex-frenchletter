@@ -1,4 +1,11 @@
-\ProvidesClass{frenchletter}[15/08/2016 French Letter format]
+%%
+% class: frenchletter
+% author: Olivier CHURLAUD
+% license: WTFPL
+%%
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{frenchletter}[2016/08/15 French Letter format]
 \LoadClass{article}
 
 \thispagestyle{empty}
